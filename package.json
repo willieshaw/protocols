@@ -1,6 +1,6 @@
 {
-  "homepage": "http://willieshaw.github.io/protocol-minisite",
-  "name": "protocol-minisite",
+  "homepage": "http://willieshaw.github.io/protocols",
+  "name": "protocols",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
