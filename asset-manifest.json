@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/protocols/static/css/main.dd73ac3d.css",
+    "main.js": "/protocols/static/js/main.78f2c582.js",
+    "static/js/453.c77dc2de.chunk.js": "/protocols/static/js/453.c77dc2de.chunk.js",
+    "static/media/AcuminPro-Medium.otf": "/protocols/static/media/AcuminPro-Medium.f417b1f796c0cabf63dc.otf",
+    "index.html": "/protocols/index.html",
+    "main.dd73ac3d.css.map": "/protocols/static/css/main.dd73ac3d.css.map",
+    "main.78f2c582.js.map": "/protocols/static/js/main.78f2c582.js.map",
+    "453.c77dc2de.chunk.js.map": "/protocols/static/js/453.c77dc2de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd73ac3d.css",
+    "static/js/main.78f2c582.js"
+  ]
+}
