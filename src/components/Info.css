@@ -1,0 +1,9 @@
+.info {
+    display: flex;
+    padding: 4px;
+    margin-left: 70px;
+    /* width: 400px; */
+    margin-bottom: 80px;
+    font-size: 18px;  
+
+  }

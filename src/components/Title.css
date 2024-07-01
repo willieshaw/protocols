@@ -1,0 +1,23 @@
+/* PageTitle.css */
+.page-title {
+    display: flex;
+    padding: 4px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+  
+  .page-title-empty {
+    flex-basis: 70px; /* Adjust to match the width of the ListItem number column */
+    flex-grow: 0;
+    flex-shrink: 0;
+  }
+  
+  .page-title-main {
+    flex-grow: 1;
+    /* font-size: 19px;   */
+  }
+  
+  .page-title-main:hover {
+  opacity: 0.3;
+}
+

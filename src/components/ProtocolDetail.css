@@ -1,0 +1,52 @@
+.protocol-detail {
+    /* margin-left: 70px; */
+    /* width: 470px; */
+    padding: 4px;
+  }
+
+  .protocol-detail-content {
+    margin-left: 70px;
+  }
+
+  .title {
+    font-size: 19px;
+    flex: 0 0 400px;
+
+  }
+
+  .spectrum {
+    border-top: 0.5px solid;
+    margin-top: 50px;
+  }
+  
+  .next {
+    border-top: 0.5px solid;
+    margin-top: 50px;
+    padding-top: 50px;
+    /* font-size: 70px; */
+    /* text-align: right; */
+  }
+
+  a {
+    cursor: pointer;
+  }
+
+  a:hover {
+    opacity: 0.4;
+  }
+
+  .protocol-detail-header {
+    display: flex;
+}
+
+.home-link {
+    display: flex;
+}
+  .protocol-detail-number {
+    flex: 0 0 50px;
+    padding-right: 20px; 
+    font-size: 19px;
+  }
+
+
+
