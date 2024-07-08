@@ -27,14 +27,7 @@
     /* text-align: right; */
   }
 
-  a {
-    cursor: pointer;
-  }
-
-  a:hover {
-    opacity: 0.4;
-  }
-
+  
   .protocol-detail-header {
     display: flex;
 }

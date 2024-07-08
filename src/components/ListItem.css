@@ -10,7 +10,7 @@
 }
 
 .list-item:hover {
-  opacity: 0.5;
+  /* opacity: 0.5; */
 }
 
 .list-item-number {
@@ -18,10 +18,7 @@
   padding-right: 20px; 
 }
 
-.list-item-content {
-  /* flex: 0 0 400px; */
-}
 
 .list-item-description {
-  color: rgb(193, 193, 193);
+  color: rgb(142, 142, 142);
 }
